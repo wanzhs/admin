@@ -7,8 +7,8 @@ Source Host           : localhost:3306
 Source Database       : admin
 
 Target Server Type    : MYSQL
-Target Server Version : 50520
-File Encoding         : 65001
+Target Server Version : 8.0.13
+File Encoding         : 65001 utf8
 
 Date: 2016-10-24 13:40:00
 */
