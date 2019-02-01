@@ -14,7 +14,7 @@ admin项目实现了基础的用户/菜单/角色/权限功能，可以直接基
     mysql下创建数据库admin，初始化数据脚本（执行etc包下的ddl.sql文件）
 ### 登陆
     测试账号：root/root
-    接口地址：http://localhost:8080/to-login
+    接口地址：http://localhost:8081/to-login
 ![image](https://github.com/jonsychen/admin/raw/master/etc/login.png)
 ### 首页
 ![image](https://github.com/jonsychen/admin/raw/master/etc/index.png)
